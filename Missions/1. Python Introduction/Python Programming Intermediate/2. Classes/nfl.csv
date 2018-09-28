@@ -1,0 +1,237 @@
+year,week,winner,loser
+2009,1,Pittsburgh Steelers,Tennessee Titans
+2009,1,Minnesota Vikings,Cleveland Browns
+2009,1,New York Giants,Washington Redskins
+2009,1,San Francisco 49ers,Arizona Cardinals
+2009,1,Seattle Seahawks,St. Louis Rams
+2009,1,Philadelphia Eagles,Carolina Panthers
+2009,1,New York Jets,Houston Texans
+2009,1,Atlanta Falcons,Miami Dolphins
+2009,1,Baltimore Ravens,Kansas City Chiefs
+2009,1,Indianapolis Colts,Jacksonville Jaguars
+2009,1,New Orleans Saints,Detroit Lions
+2009,1,Denver Broncos,Cincinnati Bengals
+2009,1,Green Bay Packers,Chicago Bears
+2009,1,Dallas Cowboys,Tampa Bay Buccaneers
+2009,1,New England Patriots,Buffalo Bills
+2009,1,San Diego Chargers,Oakland Raiders
+2009,2,New York Giants,Dallas Cowboys
+2009,2,Chicago Bears,Pittsburgh Steelers
+2009,2,Oakland Raiders,Kansas City Chiefs
+2009,2,Washington Redskins,St. Louis Rams
+2009,2,Baltimore Ravens,San Diego Chargers
+2009,2,San Francisco 49ers,Seattle Seahawks
+2009,2,Buffalo Bills,Tampa Bay Buccaneers
+2009,2,New York Jets,New England Patriots
+2009,2,New Orleans Saints,Philadelphia Eagles
+2009,2,Atlanta Falcons,Carolina Panthers
+2009,2,Cincinnati Bengals,Green Bay Packers
+2009,2,Denver Broncos,Cleveland Browns
+2009,2,Arizona Cardinals,Jacksonville Jaguars
+2009,2,Houston Texans,Tennessee Titans
+2009,2,Minnesota Vikings,Detroit Lions
+2009,2,Indianapolis Colts,Miami Dolphins
+2009,3,San Diego Chargers,Miami Dolphins
+2009,3,New Orleans Saints,Buffalo Bills
+2009,3,New York Giants,Tampa Bay Buccaneers
+2009,3,New York Jets,Tennessee Titans
+2009,3,Cincinnati Bengals,Pittsburgh Steelers
+2009,3,Minnesota Vikings,San Francisco 49ers
+2009,3,Detroit Lions,Washington Redskins
+2009,3,Philadelphia Eagles,Kansas City Chiefs
+2009,3,Jacksonville Jaguars,Houston Texans
+2009,3,New England Patriots,Atlanta Falcons
+2009,3,Chicago Bears,Seattle Seahawks
+2009,3,Baltimore Ravens,Cleveland Browns
+2009,3,Indianapolis Colts,Arizona Cardinals
+2009,3,Denver Broncos,Oakland Raiders
+2009,3,Green Bay Packers,St. Louis Rams
+2009,3,Dallas Cowboys,Carolina Panthers
+2009,4,Houston Texans,Oakland Raiders
+2009,4,San Francisco 49ers,St. Louis Rams
+2009,4,New England Patriots,Baltimore Ravens
+2009,4,Pittsburgh Steelers,San Diego Chargers
+2009,4,Washington Redskins,Tampa Bay Buccaneers
+2009,4,Jacksonville Jaguars,Tennessee Titans
+2009,4,New Orleans Saints,New York Jets
+2009,4,New York Giants,Kansas City Chiefs
+2009,4,Indianapolis Colts,Seattle Seahawks
+2009,4,Chicago Bears,Detroit Lions
+2009,4,Denver Broncos,Dallas Cowboys
+2009,4,Cincinnati Bengals,Cleveland Browns
+2009,4,Miami Dolphins,Buffalo Bills
+2009,4,Minnesota Vikings,Green Bay Packers
+2009,5,Arizona Cardinals,Houston Texans
+2009,5,Philadelphia Eagles,Tampa Bay Buccaneers
+2009,5,Carolina Panthers,Washington Redskins
+2009,5,Atlanta Falcons,San Francisco 49ers
+2009,5,New York Giants,Oakland Raiders
+2009,5,Pittsburgh Steelers,Detroit Lions
+2009,5,Denver Broncos,New England Patriots
+2009,5,Minnesota Vikings,St. Louis Rams
+2009,5,Seattle Seahawks,Jacksonville Jaguars
+2009,5,Dallas Cowboys,Kansas City Chiefs
+2009,5,Indianapolis Colts,Tennessee Titans
+2009,5,Cleveland Browns,Buffalo Bills
+2009,5,Cincinnati Bengals,Baltimore Ravens
+2009,5,Miami Dolphins,New York Jets
+2009,6,Oakland Raiders,Philadelphia Eagles
+2009,6,Arizona Cardinals,Seattle Seahawks
+2009,6,Atlanta Falcons,Chicago Bears
+2009,6,Carolina Panthers,Tampa Bay Buccaneers
+2009,6,New Orleans Saints,New York Giants
+2009,6,Jacksonville Jaguars,St. Louis Rams
+2009,6,Minnesota Vikings,Baltimore Ravens
+2009,6,New England Patriots,Tennessee Titans
+2009,6,Kansas City Chiefs,Washington Redskins
+2009,6,Houston Texans,Cincinnati Bengals
+2009,6,Green Bay Packers,Detroit Lions
+2009,6,Pittsburgh Steelers,Cleveland Browns
+2009,6,Buffalo Bills,New York Jets
+2009,6,Denver Broncos,San Diego Chargers
+2009,7,Arizona Cardinals,New York Giants
+2009,7,Indianapolis Colts,St. Louis Rams
+2009,7,Cincinnati Bengals,Chicago Bears
+2009,7,New Orleans Saints,Miami Dolphins
+2009,7,Dallas Cowboys,Atlanta Falcons
+2009,7,San Diego Chargers,Kansas City Chiefs
+2009,7,New York Jets,Oakland Raiders
+2009,7,Houston Texans,San Francisco 49ers
+2009,7,New England Patriots,Tampa Bay Buccaneers
+2009,7,Pittsburgh Steelers,Minnesota Vikings
+2009,7,Green Bay Packers,Cleveland Browns
+2009,7,Buffalo Bills,Carolina Panthers
+2009,7,Philadelphia Eagles,Washington Redskins
+2009,8,Minnesota Vikings,Green Bay Packers
+2009,8,Miami Dolphins,New York Jets
+2009,8,Tennessee Titans,Jacksonville Jaguars
+2009,8,Dallas Cowboys,Seattle Seahawks
+2009,8,Baltimore Ravens,Denver Broncos
+2009,8,Chicago Bears,Cleveland Browns
+2009,8,Carolina Panthers,Arizona Cardinals
+2009,8,Indianapolis Colts,San Francisco 49ers
+2009,8,St. Louis Rams,Detroit Lions
+2009,8,San Diego Chargers,Oakland Raiders
+2009,8,Houston Texans,Buffalo Bills
+2009,8,Philadelphia Eagles,New York Giants
+2009,8,New Orleans Saints,Atlanta Falcons
+2009,9,Atlanta Falcons,Washington Redskins
+2009,9,Cincinnati Bengals,Baltimore Ravens
+2009,9,Tennessee Titans,San Francisco 49ers
+2009,9,New England Patriots,Miami Dolphins
+2009,9,Jacksonville Jaguars,Kansas City Chiefs
+2009,9,Indianapolis Colts,Houston Texans
+2009,9,Tampa Bay Buccaneers,Green Bay Packers
+2009,9,Seattle Seahawks,Detroit Lions
+2009,9,Dallas Cowboys,Philadelphia Eagles
+2009,9,New Orleans Saints,Carolina Panthers
+2009,9,Arizona Cardinals,Chicago Bears
+2009,9,San Diego Chargers,New York Giants
+2009,9,Pittsburgh Steelers,Denver Broncos
+2009,10,San Francisco 49ers,Chicago Bears
+2009,10,New Orleans Saints,St. Louis Rams
+2009,10,Indianapolis Colts,New England Patriots
+2009,10,San Diego Chargers,Philadelphia Eagles
+2009,10,Arizona Cardinals,Seattle Seahawks
+2009,10,Miami Dolphins,Tampa Bay Buccaneers
+2009,10,Kansas City Chiefs,Oakland Raiders
+2009,10,Jacksonville Jaguars,New York Jets
+2009,10,Minnesota Vikings,Detroit Lions
+2009,10,Carolina Panthers,Atlanta Falcons
+2009,10,Tennessee Titans,Buffalo Bills
+2009,10,Cincinnati Bengals,Pittsburgh Steelers
+2009,10,Green Bay Packers,Dallas Cowboys
+2009,10,Washington Redskins,Denver Broncos
+2009,10,Baltimore Ravens,Cleveland Browns
+2009,11,Miami Dolphins,Carolina Panthers
+2009,11,Philadelphia Eagles,Chicago Bears
+2009,11,Kansas City Chiefs,Pittsburgh Steelers
+2009,11,San Diego Chargers,Denver Broncos
+2009,11,Minnesota Vikings,Seattle Seahawks
+2009,11,Green Bay Packers,San Francisco 49ers
+2009,11,Dallas Cowboys,Washington Redskins
+2009,11,New England Patriots,New York Jets
+2009,11,New Orleans Saints,Tampa Bay Buccaneers
+2009,11,New York Giants,Atlanta Falcons
+2009,11,Jacksonville Jaguars,Buffalo Bills
+2009,11,Oakland Raiders,Cincinnati Bengals
+2009,11,Detroit Lions,Cleveland Browns
+2009,11,Indianapolis Colts,Baltimore Ravens
+2009,11,Arizona Cardinals,St. Louis Rams
+2009,11,Tennessee Titans,Houston Texans
+2009,12,Denver Broncos,New York Giants
+2009,12,Green Bay Packers,Detroit Lions
+2009,12,Dallas Cowboys,Oakland Raiders
+2009,12,Baltimore Ravens,Pittsburgh Steelers
+2009,12,Seattle Seahawks,St. Louis Rams
+2009,12,Atlanta Falcons,Tampa Bay Buccaneers
+2009,12,Philadelphia Eagles,Washington Redskins
+2009,12,Buffalo Bills,Miami Dolphins
+2009,12,San Diego Chargers,Kansas City Chiefs
+2009,12,San Francisco 49ers,Jacksonville Jaguars
+2009,12,Tennessee Titans,Arizona Cardinals
+2009,12,Indianapolis Colts,Houston Texans
+2009,12,Cincinnati Bengals,Cleveland Browns
+2009,12,Minnesota Vikings,Chicago Bears
+2009,12,New York Jets,Carolina Panthers
+2009,12,New Orleans Saints,New England Patriots
+2009,13,New York Jets,Buffalo Bills
+2009,13,Seattle Seahawks,San Francisco 49ers
+2009,13,San Diego Chargers,Cleveland Browns
+2009,13,Chicago Bears,St. Louis Rams
+2009,13,Oakland Raiders,Pittsburgh Steelers
+2009,13,Philadelphia Eagles,Atlanta Falcons
+2009,13,Indianapolis Colts,Tennessee Titans
+2009,13,Carolina Panthers,Tampa Bay Buccaneers
+2009,13,Miami Dolphins,New England Patriots
+2009,13,New York Giants,Dallas Cowboys
+2009,13,Denver Broncos,Kansas City Chiefs
+2009,13,Cincinnati Bengals,Detroit Lions
+2009,13,Jacksonville Jaguars,Houston Texans
+2009,13,Arizona Cardinals,Minnesota Vikings
+2009,13,New Orleans Saints,Washington Redskins
+2009,13,Green Bay Packers,Baltimore Ravens
+2009,14,Cleveland Browns,Pittsburgh Steelers
+2009,14,New York Jets,Tampa Bay Buccaneers
+2009,14,Philadelphia Eagles,New York Giants
+2009,14,Tennessee Titans,St. Louis Rams
+2009,14,San Diego Chargers,Dallas Cowboys
+2009,14,Houston Texans,Seattle Seahawks
+2009,14,Washington Redskins,Oakland Raiders
+2009,14,New Orleans Saints,Atlanta Falcons
+2009,14,Miami Dolphins,Jacksonville Jaguars
+2009,14,Buffalo Bills,Kansas City Chiefs
+2009,14,New England Patriots,Carolina Panthers
+2009,14,Minnesota Vikings,Cincinnati Bengals
+2009,14,Indianapolis Colts,Denver Broncos
+2009,14,Baltimore Ravens,Detroit Lions
+2009,14,Green Bay Packers,Chicago Bears
+2009,14,San Francisco 49ers,Arizona Cardinals
+2009,15,Indianapolis Colts,Jacksonville Jaguars
+2009,15,Dallas Cowboys,New Orleans Saints
+2009,15,Carolina Panthers,Minnesota Vikings
+2009,15,New England Patriots,Buffalo Bills
+2009,15,Oakland Raiders,Denver Broncos
+2009,15,Philadelphia Eagles,San Francisco 49ers
+2009,15,Tampa Bay Buccaneers,Seattle Seahawks
+2009,15,Tennessee Titans,Miami Dolphins
+2009,15,Houston Texans,St. Louis Rams
+2009,15,Pittsburgh Steelers,Green Bay Packers
+2009,15,Atlanta Falcons,New York Jets
+2009,15,Baltimore Ravens,Chicago Bears
+2009,15,San Diego Chargers,Cincinnati Bengals
+2009,15,Cleveland Browns,Kansas City Chiefs
+2009,15,Arizona Cardinals,Detroit Lions
+2009,15,New York Giants,Washington Redskins
+2009,16,San Diego Chargers,Tennessee Titans
+2009,16,Cleveland Browns,Oakland Raiders
+2009,16,Arizona Cardinals,St. Louis Rams
+2009,16,Pittsburgh Steelers,Baltimore Ravens
+2009,16,Green Bay Packers,Seattle Seahawks
+2009,16,Tampa Bay Buccaneers,New Orleans Saints
+2009,16,New York Jets,Indianapolis Colts
+2009,16,Cincinnati Bengals,Kansas City Chiefs
+2009,16,Dallas Cowboys,Washington Redskins
+2009,16,New England Patriots,Jacksonville Jaguars
+2009,16,Houston Texans,Miami Dolphins
+2009,16,San Francisco 49ers,Detroit Lions

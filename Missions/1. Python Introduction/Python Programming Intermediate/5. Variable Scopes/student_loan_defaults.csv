@@ -1,0 +1,6 @@
+serial,opeid,institution,address,city,state,zip,repayment_borrowers,default_borrowers,default_rate,borrower_default_count_240,principal_outstanding_240
+1,100200,Alabama,4900,Normal,AL,35762-,145,54,37.24%,1606,954821
+6,100500,Alabama,915 South,Montgomery,AL,36104-,164,12,7.32%,1567,1410608
+13,100900,Auburn,107,Auburn,AL,36849-,479,29,6.05%,269,147267
+14,831000,Auburn,7440 East,Mongomery,AL,36117-,88,20,22.73%,184,457312
+16,101200,Birmingham,900,Birmigham,AL,35254-,69,12,17.39%,93,240798
