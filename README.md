@@ -1,6 +1,6 @@
 # DataQuest
 ## Data Science track
-Missions, Challenges and Projects in:
+Missions, Challenges and Projects on:
 1. Python Introduction
 2. Data Analysis and Visualisation
 3. The Command Line
