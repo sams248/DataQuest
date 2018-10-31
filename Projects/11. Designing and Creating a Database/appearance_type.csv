@@ -1,0 +1,32 @@
+appearance_type_id,name,category
+O1,Batter 1,offense
+O2,Batter 2,offense
+O3,Batter 3,offense
+O4,Batter 4,offense
+O5,Batter 5,offense
+O6,Batter 6,offense
+O7,Batter 7,offense
+O8,Batter 8,offense
+O9,Batter 9,offense
+D1,Pitcher,defense
+D2,Catcher,defense
+D3,1st Base,defense
+D4,2nd Base,defense
+D5,3rd Base,defense
+D6,Shortstop,defense
+D7,Left Field,defense
+D8,Center Field,defense
+D9,Right Field,defense
+D10,Unknown Position,defense
+UHP,Home Plate,umpire
+U1B,First Base,umpire
+U2B,Second Base,umpire
+U3B,Third Base,umpire
+ULF,Left Field,umpire
+URF,Right Field,umpire
+MM,Manager,manager
+AWP,Winning Pitcher,award
+ALP,Losing Pitcher,award
+ASP,Saving Pitcher,award
+AWB,Winning RBI Batter,award
+PSP,Starting Pitcher,pitcher
